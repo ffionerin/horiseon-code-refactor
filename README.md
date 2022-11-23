@@ -11,7 +11,7 @@ This is a refractor of the Horiseon webiste to improve on search engine optimisa
 
 ## Screenshot
 
-![Screenshot of Horiseon website](../../../../../../c:/Users/Ffion%20Burke/Documents/Bootcamp/horiseon-code-refactor/assets/screencapture-ffionerin-github-io-horiseon-code-refactor-2022-11-23-19_14_04.png)
+![Screenshot of Horiseon website](assets\screencapture-ffionerin-github-io-horiseon-code-refactor-2022-11-23-19_14_04.png)
 
 ## Link 
 
